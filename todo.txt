@@ -1,0 +1,5 @@
+0. Class board will be a simple table which piece.rb will be reliant on
+I cant have piece.rb without first having a table
+
+1. Make a test that makes sure I can at least return a welcome message
+thats step 1 
